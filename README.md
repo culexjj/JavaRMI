@@ -8,3 +8,5 @@ En este sistema actuaran tres tipos de actores cuyas funciones se listan a conti
  Servicio Mercancías: Este servicio se encarga de registrar las mercancías demandadas por los clientes y las ofertas que hacen los distribuidores. La finalidad del mismo es enviar las ofertas de mercancías de los distribuidores a los clientes que soliciten una o unas determinadas mercancías.
 2.- Distribuidores: Estas entidades son las encargadas de ofertar sus mercancías con la intención que lleguen a los clientes que las solicitan. Cuando un Cliente está interesado en una determinada oferta de un Distribuidor, éste completa la venta mediante su servicio de venta.
 3.- Clientes: Son los compradores. Se registran en el sistema a través del Regulador y esperan a que les lleguen las ofertas de mercancías. Cuando le llega una que le interesa accede al servicio de venta del Distribuidor y completan la operación.
+
+La documentacion completa se puede ver en el archivo Enunciado_Practica_2017_2018.pdf
